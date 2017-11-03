@@ -1,0 +1,38 @@
+
+
+.block-left { 
+	float: right;
+	width: 400px; 
+}
+
+
+.top-frame {
+	scroll-behavior: none;
+	resize: none;
+	text-align: center;
+}
+
+
+.sidebar {
+	width: 30%;
+	vertical-align: top;
+}
+
+.blue {
+	color: #0000CD;
+	text-decoration: none;
+}
+
+.title-style {
+	text-align: justify;
+	color: rgb(153, 0, 0);
+	margin-bottom: 0;
+}
+
+.caps {
+	text-transform: uppercase;
+}
+
+.no-margin {
+	margin: 0;
+}
