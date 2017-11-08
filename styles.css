@@ -36,3 +36,21 @@
 .no-margin {
 	margin: 0;
 }
+
+.table {
+	border: 0;
+	border-spacing: 5px;
+	font-size: 12px;
+}
+
+td {
+	padding: 0;
+}
+
+ th {
+ 	padding: 0;
+ }
+
+ .text-size {
+ 	font-size: 10.8px;
+ }
