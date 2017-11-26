@@ -68,6 +68,10 @@ td {
  	font-size: 10.8px;
  }
 
+.text-right {
+	text-align: right;
+}
+
  .text-center {
  	text-align: center;
  }
