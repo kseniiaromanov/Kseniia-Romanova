@@ -51,6 +51,11 @@
 	width: 40%;
 }
 
+.contacts {
+	width: 404px;
+	height: 139px;
+}
+
 td {
 	padding: 0;
 }
@@ -66,3 +71,26 @@ td {
  .text-center {
  	text-align: center;
  }
+
+.contacts-td {
+	padding-right: 20px;
+	vertical-align: top;
+}
+
+.contacts-td2 {
+	border-left: 1px;
+	padding-left: 20px; 
+	vertical-align: top;
+}
+
+.cont-otstup {
+	margin: 10px 0px 0px 10px;
+}
+
+.frame-c {
+	border: 1px;
+	margin: 0px 0px 5px 5px;
+	padding: 5px;
+	width: 300px;
+	float: right;
+} 
