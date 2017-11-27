@@ -51,6 +51,13 @@
 	width: 40%;
 }
 
+.table3 {
+	border: 0;
+	padding: 0;
+	border-spacing: 0; 
+	width: 100%;
+}
+
 .contacts {
 	width: 404px;
 	height: 139px;
@@ -98,3 +105,11 @@ td {
 	width: 300px;
 	float: right;
 } 
+
+.vert-al {
+	vertical-align: top;
+}
+
+.shir {
+	width: 33%;
+}
